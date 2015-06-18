@@ -1,0 +1,118 @@
+*{
+margin: 0;
+padding: 0;
+    
+}
+
+body{
+   width: 100%;
+    background-color: #f0f0f0;
+}
+
+.container{
+width: 900px;
+margin: auto;
+}
+
+
+#key-block a{
+ font-size: 24px;
+ color: #000000;
+ background-color: #fff;
+ border: 1px solid #000;    
+ padding: 15px;
+ text-decoration: none;
+ border-radius: 4px;   
+}
+
+#key-block a:hover{
+ background: #000;
+ color: #ffffff;
+ transition: 0.4s;
+    
+}
+
+#key-block img{
+float: left;
+margin-left: 10px;
+
+}
+
+#key-block h1{
+ font-size: 25px;   
+width: 100%;
+margin-bottom: 10px;
+}
+
+#key-block h2{
+font-size: 18px;
+width: 100%;
+margin-bottom: 10px;
+}
+
+
+#key-block p{
+ font-size: 15px;
+    width: 350;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+nav{
+overflow: hidden;
+background: #000;  
+margin-bottom: 30px;
+color: #fff;
+}
+
+nav li{
+    float: left;
+    list-style-type: none;
+}
+
+nav a{
+    text-decoration: none;
+    border:none;
+    color: #fff;
+    border-radius: 0;
+    display: block;
+    padding: 8px;
+    transition: 0.5;
+}
+
+nav a:hover{
+    background: #fff;
+    color: #000;
+}
+
+.main{
+    width: 600px;
+    overflow: hidden;
+    float: left;
+    background: #fff;
+    padding: 20px;
+    }
+
+.sidebar{
+    width: 200px;
+    padding: 20px;
+    margin-left: 10px;
+    float: left;
+    background: #fff;
+}
+
+#yeah a{
+font-size: 24px;
+ color: #004391;
+ background-color: #ffff00;
+ border: 1px solid #000;    
+ padding: 15px;
+ text-decoration: none;
+ border-radius: 4px;   
+}
+
+#yeah a:hover{
+    background: #004391;
+    color: #ffff00;
+    transition: 0.3s;
+}
