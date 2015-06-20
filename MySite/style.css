@@ -167,3 +167,24 @@ nav a:hover{
     float: left;
     background-color: #ffffff;
 }
+
+#yeah a{
+    font-size: 25px;
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid #000000;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+#yeah a:hover{
+ background: #ffffff;
+    color: #000000;
+    transition: 0.3s;   
+}
+
+#yeah img{
+    float: left; 
+    margin-right: 10px;
+}
